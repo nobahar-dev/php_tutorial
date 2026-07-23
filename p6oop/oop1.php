@@ -30,7 +30,7 @@ class Person {
     }
 }
 
-$person = new Person();
+$person = new Human();
 $person->setName('Mahdi');
 $person->setFamily('Nobahar');
 $person->setAge(33);
